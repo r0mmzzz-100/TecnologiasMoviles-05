@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="toolbar_title">Mi Catálogo</string>
+    <string name="fab_add_description">Agregar producto</string>
+    <string name="product_name_placeholder">Nombre del Producto</string>
+    <string name="product_stock_placeholder">Stock: 0 unidades</string>
+    <string name="product_price_placeholder">$0.00</string>
+</resources>
